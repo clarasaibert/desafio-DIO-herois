@@ -46,4 +46,5 @@ switch (true) {
     alert("Não identificado nenhum XP :(")
 }
 
+//alert final para retornar completo nome do heroi e nivel
 alert("O herói " + nomeDoHeroi + " está no nível de " + nomeDoNivel + "!")
